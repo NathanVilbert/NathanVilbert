@@ -8,9 +8,9 @@ About Me:
 - 🧠 Analytical Thinker — From solving problems to uncovering patterns, critical thinking and data analysis are my superpowers.
 
 My Mission:
-I’m driven by a desire to make a positive impact on society 🌍. Through my skills in data science and technology, I aim to help organizations unlock insights that make a difference.
+- I’m driven by a desire to make a positive impact on society 🌍. Through my skills in data science and technology, I aim to help organizations unlock insights that make a difference.
 
-💡 What I’m Working On:
+What I’m Working On:
 - 📊 Building skills in data analysis and machine learning to solve real-world problems.
 - 🤝 Developing teamwork and leadership skills by engaging in meaningful projects and college activities.
 - 📚 Staying ahead in IT trends to keep my knowledge fresh and relevant!
