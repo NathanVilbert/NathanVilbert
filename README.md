@@ -15,7 +15,6 @@ I’m driven by a desire to make a positive impact on society 🌍. Through my s
 🛠️ Skills:
 Leadership 💼 | Teamwork 🤝 | Critical Thinking 🧩 | Data Analysis 📈
 
-
 <!---
 NathanVilbert/NathanVilbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
