@@ -1,6 +1,6 @@
 👋 Hey there! Welcome to my GitHub!
 
-I'm an Information Systems student at Multimedia Nusantara University, where I dive into all things data analysis 📊 and data science 🔍. When I'm not studying or working on projects, you’ll find me involved in college activities that keep my skills sharp and my passion fueled.
+I'm an Information Systems student at Multimedia Nusantara University, where I dive into all things data analysis 📊 and data science 🔍. Through hands-on projects and active involvement in campus activities, I’m constantly honing my skills and deepening my knowledge in the field. Currently seeking internship opportunities to apply my expertise, expand my experience, and contribute to real-world projects.
 
 About Me:
 - 🌱 Curious Learner — I’m constantly learning and evolving, especially when it comes to information technology and the latest in big data.
